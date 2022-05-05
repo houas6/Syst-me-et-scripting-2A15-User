@@ -1,0 +1,13 @@
+Description de l'application:
+Cette application permet de gérer les utilisateurs,elle contient comme fonctionalités:
+*_*)Une fonction show_usage qui affiche sur la sortie standard un message donné.
+
+*_*)Un test de la présence d'au moins un arguments.
+
+*_*)Une fonction nommée HELP qui permet d’afficher le help à partir d’n fichier texte contenant une
+description bien détaillée de l’application.
+
+*_*)L'ajout d'un utilisateur et la gestion de son compte.
+
+*_*)La modification du repertoire personnel de l’utilisateur et la copie du contenu de son ancien répertoire vers un nouveau.
+
